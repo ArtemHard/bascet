@@ -24,7 +24,6 @@ export default defineConfig({
         'process.env.REACT_APP_FIREBASE_MESSAGING_APP_ID': JSON.stringify(
           '1:24242639849:web:18eedd324999833be83178'
         ),
-        // 'process.env.API_KEY': JSON.stringify(process.env.API_KEY),
       },
     }),
   ],
