@@ -1,0 +1,30 @@
+{
+  "products": {
+    "flowers": {
+      "rose": {
+        "color": {
+          "red": {
+            "count": 20,
+            "price": 100
+          },
+          "white": {
+            "count": 30,
+            "price": 80
+          }
+        }
+      },
+      "daisies": {
+        "color": {
+          "white": {
+            "count": 23,
+            "price": 45
+          },
+          "yellow": {
+            "count": 11,
+            "price": 30
+          }
+        }
+      }
+    }
+  }
+}
